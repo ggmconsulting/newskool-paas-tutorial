@@ -27,4 +27,4 @@ Heb je dit gedaan? Ga naar het Primary Endpoint van je 'Static Website'.
 
 Gefeliciteerd! Je eerst static website is live.
 
-## Opdracht 2 - Azure Static Website
+
