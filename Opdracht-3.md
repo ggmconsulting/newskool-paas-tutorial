@@ -19,6 +19,11 @@ Tag: prd <br>
 Server: acrggmwebprd001.azurecr.io <br>
 Username: acrggmwebprd001 <br>
 Password: *krijgen jullie te zien in de workshop* <br>
+<br>
+OF
+<br>
+
+Kies een Quickstart Image vanuit het formulier. (aanbevolen als eerste stap)
 
 - Gebruik een Consumption plan
 - Zorg dat je Container app van overal te benaderen is met Ingress en gebruik poort 3000
